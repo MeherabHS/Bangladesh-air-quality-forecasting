@@ -1,4 +1,4 @@
-# Bangladesh-air-quality-forecasting
+# Bangladesh Air-Quality Forecasting: PM2.5 Across Eight Cities
 
 
 An end-to-end data science pipeline for short-term air quality forecasting across major Bangladeshi cities using classical time-series models and rolling-origin validation.
@@ -105,10 +105,6 @@ The following pollutants are collected:
 Data is retrieved as **hourly observations** for each city.
 
 ---
-
-## Database Design
-
-Observations are stored in a structured **SQLite database**.
 
 ## Database Design
 
